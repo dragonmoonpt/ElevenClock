@@ -88,8 +88,8 @@ In order to translate ElevenClock to other languages or to update an old transla
 | Dutch - Nederlands | 53% | <img src='https://flagcdn.com/nl.svg' width=20> |
 | Norwegian (nynorsk) | 73% | <img src='https://flagcdn.com/no.svg' width=20> |
 | Polish - Polski | 100% | <img src='https://flagcdn.com/pl.svg' width=20> |
-| Portuguese (Brazil) | 74% | <img src='https://flagcdn.com/br.svg' width=20> |
-| Portuguese (Portugal) | 29% | <img src='https://flagcdn.com/pt.svg' width=20> |
+| Portuguese (Brazil) | 63% | <img src='https://flagcdn.com/br.svg' width=20> |
+| Portuguese (Portugal) | 58% | <img src='https://flagcdn.com/pt.svg' width=20> |
 | Romanian - Română | 40% | <img src='https://flagcdn.com/ro.svg' width=20> |
 | Russian - Русский | 80% | <img src='https://flagcdn.com/ru.svg' width=20> |
 | Sinhala - සිංහල | 0% | <img src='https://flagcdn.com/lk.svg' width=20> |
